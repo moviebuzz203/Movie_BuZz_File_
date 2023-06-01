@@ -1,4 +1,4 @@
-# Unlimited Filter Bot
+#Movie_BuZz_File_
 
 
 <p align="center">
@@ -8,13 +8,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Greymattersbot/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/Greymattersbot/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/Greymattersbot/Movie_BuZz_File_/stargazers">
+    <img src="https://img.shields.io/github/stars/moviebuzz/Movie_BuZz_File_?style=social">
 
   </a>
   
-  <a href="https://github.com/Greymattersbot/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/Greymattersbot/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/moviebuzz/Movie_BuZz_File_/fork">
+    <img src="https://img.shields.io/github/forks/moviebuzz/Movie_BuZz_File_?label=Fork&style=social">
 
   </a>  
 </p>
@@ -69,21 +69,22 @@
 
 [Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://t.me/+r312TVWoPSxkOTc1) for the video
 
 
-## Any bugs or errors or suggestions, report at [GreyMatter's Support](https://www.telegram.dog/GreyMatters_Support)
+## Any bugs or errors or suggestions, report at [GreyMatter's Support](https://t.me/+r312TVWoPSxkOTc1)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Greymattersbot/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Greymattersbot/)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/Greymattersbot/Unlimited-Filter-Bot
-cd Unlimited-Filter-Bot
+git clone https://github.com/Greymattersbot/Movie_BuZz_File_
+
+cd Movie_BuZz_File_
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
